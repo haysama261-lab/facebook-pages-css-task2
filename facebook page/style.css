@@ -1,0 +1,61 @@
+body{
+    background-color: gray;
+}
+
+.main{
+   justify-content: center;
+   display: flex;    
+}
+.div1>h1{
+    color: blue;
+}
+.div2{
+    background-color: white;
+    height: 250px;
+    width: 300px;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: 5px white;
+}
+input{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    height: 30px;
+
+}
+.button1{
+   margin-left: 20px;
+   width: 258px;
+   margin-top: 10px;
+   border: none; 
+   background-color: blue;
+   color: white;
+   height: 30px;
+   border-radius: 5px;
+
+}
+.button2{
+    margin-left: 20px;
+    width: 258px;
+    color: blue;
+    margin-top: 10px;
+    height: 30px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+}
+.button3{
+    margin-left: 80px;
+    margin-top: 20px;
+    height: 35px;
+    width: 150px;
+    background-color: rgb(0, 191, 0);
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
